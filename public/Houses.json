@@ -1,0 +1,79 @@
+[
+  {
+    "id": 0,
+    "name": "House Stark",
+    "region": "North",
+    "image": "https://static.wikia.nocookie.net/gameofthrones/images/7/7e/House_Stark.svg",
+    "description": "A Casa Stark de Winterfell é uma Grande Casa de Westeros e a casa real do Reino do Norte. Eles governam a vasta região conhecida como Norte. É uma das mais antigas linhagens da nobreza de Westeros, de longe, reivindicando uma linha de descendência que remonta a mais de oito mil anos."
+  },
+  {
+    "id": 1,
+    "name": "House Lannister",
+    "region": "Westerlands",
+    "image": "https://static.wikia.nocookie.net/gameofthrones/images/d/d5/House_Lannister.svg",
+    "description": "A Casa Lannister é uma das Grandes Casas de Westeros. Suas terras ficam no extremo oeste do continente. Sua sede é Casterly Rock, um castelo em um promontório rochoso com vista para o Mar do Pôr do Sol."
+  },
+  {
+    "id": 2,
+    "name": "House Targaryen",
+    "region": "Valyrian peninsula/Crownlands",
+    "image": "https://static.wikia.nocookie.net/gameofthrones/images/1/1e/House_Targaryen.svg",
+    "description": "Outrora uma pequena família de senhores dragões no vasto Domínio Valiriano, os Targaryen receberam o controle da ilha de Pedra do Dragão no Mar Estreito há alguns séculos."
+  },
+  {
+    "id": 3,
+    "name": "House Greyjoy",
+    "region": "Iron Islands",
+    "image": "https://static.wikia.nocookie.net/gameofthrones/images/5/5b/House_Greyjoy.svg",
+    "description": "A Casa Greyjoy é uma das Grandes Casas de Westeros. Suas terras são as Ilhas de Ferro na costa oeste do continente. Eles governam de seu castelo Pyke da ilha de mesmo nome. As Ilhas de Ferro são duras e sombrias e os Greyjoys tradicionalmente sobreviveram atacando seus vizinhos."
+  },
+  {
+    "id": 4,
+    "name": "House Baratheon",
+    "region": "Stormlands",
+    "image": "https://static.wikia.nocookie.net/gameofthrones/images/2/2d/House_Baratheon.svg",
+    "description": "A Casa Baratheon de Ponta da Tempestade é uma grande casa de Westeros legalmente extinta. Sua ramificação principal era a casa real, mas a Casa Lannister atualmente controla o trono. O símbolo da Casa Baratheon é um veado preto sobre um fundo dourado e seu lema deles é 'Nossa é a Fúria' . Quando Robert Baratheon subiu ao Trono de Ferro e retirando a Casa Targaryen dele, uma coroa de ouro foi adicionado ao veado, denotando seu status como a casa real."
+  },
+  {
+    "id": 5,
+    "name": "House Martell",
+    "region": "Dorne",
+    "image": "https://static.wikia.nocookie.net/gameofthrones/images/6/60/House_Martell.svg",
+    "description": "A Casa Martell começou como reis locais em Dorne, que foi dividida por muito tempo entre muitos reis mesquinhos dos Primeiros Homens e dos Ândalos. Cerca de mil anos atrás, refugiados roinares fugindo da conquista pelo Valyrian Freehold em Essos migraram através do Mar Estreito para Dorne, liderados por sua rainha guerreira Nymeria."
+  },
+  {
+    "id": 6,
+    "name": "House Tyrell",
+    "region": "Reach",
+    "image": "https://static.wikia.nocookie.net/gameofthrones/images/3/31/House_Tyrell.svg",
+    "description": "A Casa Tyrell foi fundada por Alester Tyrell, um cavaleiro ândalo, durante a chegada dos ândalos. Sor Alester e sua família se tornaram servos seniores da Casa Gardener, os Reis do Reach, servindo por milênios como administradores do castelo real em Highgarden."
+  },
+  {
+    "id": 7,
+    "name": "House Bolton",
+    "region": "North",
+    "image": "https://static.wikia.nocookie.net/gameofthrones/images/0/0c/House_Bolton.svg",
+    "description": "A Casa Bolton do Forte do Pavor é uma casa nobre extinta do Norte. Após o Casamento Vermelho, eles se tornaram a grande casa do Norte, tendo usurpado a posição de seus antigos suseranos, os Stark. Suas terras originais ficavam a nordeste dos territórios Stark. Sua sede era um castelo chamado Forte do Pavor e o chefe da casa detinha o título de Senhor do Forte do Pavor."
+  },
+  {
+    "id": 8,
+    "name": "House Frey",
+    "region": "Riverlands",
+    "image": "https://static.wikia.nocookie.net/gameofthrones/images/d/da/House_Frey.svg",
+    "description": "A Casa Frey era uma casa nobre nas Terras Fluviais que surgiu cerca de seiscentos anos antes da Guerra dos Cinco Reis. Sua sede fica em Twins, um castelo que consiste em duas torres idênticas e uma ponte que cruza o Garfo Verde do rio Tridente. Os Freys enriqueceram cobrando pedágios dos viajantes que cruzavam o Garfo Verde."
+  },
+  {
+    "id": 9,
+    "name": "House Tully",
+    "region": "Riverlands",
+    "image": "https://static.wikia.nocookie.net/gameofthrones/images/6/61/House_Tully.svg",
+    "description": "A Casa Tully é uma das Grandes Casas de Westeros. Suas terras são a parte central do continente. Sua sede é Correrrio, um castelo na confluência do Ramo Vermelho do Tridente com o Tumblestone. Eles governam as Terras Fluviais do castelo e o chefe da casa é o Senhor de Correrrio."
+  },
+  {
+    "id": 10,
+    "name": "House Arryn",
+    "region": "Vale of Arryn",
+    "image": "https://static.wikia.nocookie.net/gameofthrones/images/b/b4/House_Arryn.svg",
+    "description": "De acordo com a lenda, a casa foi fundada por Sor Artys Arryn, o Cavaleiro Alado. Dizem que ele voou no topo de um falcão gigante, pousando na montanha mais alta do Vale, e derrotou o Rei Grifo, o último dos Reis da Montanha dos Primeiros Homens. Depois, ele tomou o Ninho da Águia e se tornou o primeiro Rei da Montanha e do Vale. Seus descendentes continuaram a governar o Vale desde então."
+  }
+]

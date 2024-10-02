@@ -1,0 +1,698 @@
+[
+  {
+    "id": 0,
+    "firstName": "Daenerys",
+    "lastName": "Targaryen",
+    "fullName": "Daenerys Targaryen",
+    "title": "Mother of Dragons",
+    "family": "House Targaryen",
+    "image": "daenerys.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/daenerys.jpg",
+    "quotes": [
+      "Eu sou a filha do dragão, e juro a você que aqueles que te machucarem morrerão gritando.",
+      "Ele não era um dragão. O fogo não pode matar um dragão.",
+      "Todos os homens devem morrer, mas nós não somos homens.",
+      "Eu sou Daenerys Stormborn do Sangue da velha Valíria e eu tomarei o que é meu, com fogo e sangue eu tomarei",
+      "Qual guerra foi vencida sem engano e assassinato em massa?",
+      "Dracarys!"
+    ]
+  },
+  {
+    "id": 1,
+    "firstName": "Samwell",
+    "lastName": "Tarly",
+    "fullName": "Samwell Tarly",
+    "title": "Maester",
+    "family": "",
+    "image": "sam.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/sam.jpg",
+    "quotes": [
+      "Eu não era nada. E quando você não é nada, não há razão para ter medo.",
+      "Sim, bem, suponho que a vida seja irregular",
+      "Enquanto Lorde Janos estava se escondendo com as mulheres e crianças, Jon Snow estava liderando."
+    ]
+  },
+  {
+    "id": 2,
+    "firstName": "Jon",
+    "lastName": "Snow",
+    "fullName": "Jon Snow",
+    "title": "King of the North",
+    "family": "House Stark",
+    "image": "jon-snow.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/jon-snow.jpg",
+    "quotes": [
+      "Se eu cair, não me traga de volta.",
+      "Só há uma guerra que importa. A Grande Guerra. E é aqui.",
+      "O amor é a morte do dever.",
+      "Tudo antes da palavra \"mas\" é besteira.",
+      "A guerra não acabou. E eu prometo a você, amigo, o verdadeiro inimigo não vai esperar a tempestade passar. Ele traz a tempestade.",
+      "Eu fiz um voto à Patrulha da Noite. Se eu não levar minha própria palavra a sério, que tipo de \"Senhor de Winterfell\" eu seria?",
+      "Milhares de homens não precisam morrer. Apenas um de nós. Vamos acabar com isso do jeito antigo. Você contra mim."
+    ]
+  },
+  {
+    "id": 3,
+    "firstName": "Arya",
+    "lastName": "Stark",
+    "fullName": "Arya Stark",
+    "title": "No One",
+    "family": "House Stark",
+    "image": "arya-stark.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/arya-stark.jpg",
+    "quotes": [
+      "Quando as pessoas perguntarem o que aconteceu aqui, diga a elas que o Norte se lembra. Diga a elas que o inverno chegou para a Casa Frey.",
+      "Nada é melhor ou pior do que qualquer coisa. Nada é apenas nada.",
+      "Deixe um lobo vivo e as ovelhas nunca estarão seguras.",
+      "O medo corta mais fundo do que espadas."
+    ]
+  },
+  {
+    "id": 4,
+    "firstName": "Sansa",
+    "lastName": "Stark",
+    "fullName": "Sansa Stark",
+    "title": "Lady of Winterfell",
+    "family": "House Stark",
+    "image": "sansa-stark.jpeg",
+    "imageUrl": "https://thronesapi.com/assets/images/sansa-stark.jpeg",
+    "quotes": [
+      "Odeio o rei mais do que qualquer um deles.",
+      "Não precisa tomar a última palavra, Lorde Baelish. Presumo que foi algo inteligente.",
+      "Sou um Stark de Winterfell, esta é minha casa. E você não pode me assustar.",
+      "Quando a neve cai e os ventos brancos sopram, o lobo solitário morre, mas a matilha sobrevive.",
+      "Só um tolo confiaria em Littlefinger."
+    ]
+  },
+  {
+    "id": 5,
+    "firstName": "Brandon",
+    "lastName": "Stark",
+    "fullName": "Brandon Stark",
+    "title": "Lord of Winterfell",
+    "family": "House Stark",
+    "image": "bran-stark.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/bran-stark.jpg",
+    "quotes": [
+      "Não temos tempo para tudo isso. O Rei da Noite tem seu dragão. Ele é um deles agora. A Muralha caiu. Os mortos marcham para o sul.",
+      "Um homem ainda pode ser corajoso se estiver com medo? Essa é a única vez que um homem pode ser corajoso."
+    ]
+  },
+  {
+    "id": 6,
+    "firstName": "Ned",
+    "lastName": "Stark",
+    "fullName": "Ned Stark",
+    "title": "Lord of Winterfell",
+    "family": "House Stark",
+    "image": "ned-stark.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/ned-stark.jpg",
+    "quotes": [
+      "O homem que profere a sentença deve brandir a espada.",
+      "O inverno está chegando!",
+      "Eu, Eddard da casa Stark, senhor de Winterfell e guardião do Norte, condeno você à morte.",
+      "Um louco vê o que vê.",
+      "Eu cresci com soldados. Aprendi a morrer há muito tempo.",
+      "Um governante que se esconde atrás de carrascos pagos logo esquece o que é a morte.",
+      "Quando a neve cai e os ventos brancos sopram, o lobo solitário morre, mas a matilha sobrevive"
+    ]
+  },
+  {
+    "id": 7,
+    "firstName": "Robert",
+    "lastName": "Baratheon",
+    "fullName": "Robert Baratheon",
+    "title": "Lord of the Seven Kingdoms",
+    "family": "House Baratheon",
+    "image": "robert-baratheon.jpeg",
+    "imageUrl": "https://thronesapi.com/assets/images/robert-baratheon.jpeg",
+    "quotes": [
+      "Eu sou o Rei, eu consigo o que quero. Eu nunca amei meus irmãos. É triste para um homem admitir, mas é verdade. Você foi o irmão que eu escolhi."
+    ]
+  },
+  {
+    "id": 8,
+    "firstName": "Jamie",
+    "lastName": "Lannister",
+    "fullName": "Jamie Lannister",
+    "title": "Lord Commander of the Kingsguard",
+    "family": "House Lannister",
+    "image": "jaime-lannister.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/jaime-lannister.jpg"
+  },
+  {
+    "id": 9,
+    "firstName": "Cersei",
+    "lastName": "Lannister",
+    "fullName": "Cersei Lannister",
+    "title": "Lady of Casterly Rock",
+    "family": "House Lannister",
+    "image": "cersei.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/cersei.jpg",
+    "quotes": [
+      "Quando você joga o jogo dos tronos, você vence ou morre. Não há meio termo.",
+      "Se você me chamar de irmã novamente, eu vou te estrangular enquanto você dorme.",
+      "Se você quer uma prostituta, compre uma. Se você quer uma rainha, conquiste-a.",
+      "Lágrimas não são a única arma de uma mulher. A melhor está entre suas pernas.",
+      "A única maneira de manter seu povo leal é ter certeza de que eles temem você mais do que o inimigo.",
+      "Eu quero que nosso bebê viva. Não me deixe morrer, Jaime. Por favor, não me deixe morrer.",
+      "Eu não me importo em controlar meus piores impulsos. Eu não me importo em tornar o mundo um lugar melhor. Enforque o mundo.",
+      "Poder é poder",
+      "Você ama seus filhos. É por isso que você nunca vencerá.",
+      "Quantas mais pessoas você ama, mais fraco você é ... inimigo.",
+      "Eu não escolho lados. Eu sou a rainha dos Sete Reinos."
+    ]
+  },
+  {
+    "id": 10,
+    "firstName": "Cateyln",
+    "lastName": "Stark",
+    "fullName": "Catelyn Stark",
+    "title": "Lady of Winterfell",
+    "family": "House Stark",
+    "image": "catelyn-stark.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/catelyn-stark.jpg"
+  },
+  {
+    "id": 11,
+    "firstName": "Robb",
+    "lastName": "Stark",
+    "fullName": "Rob Stark",
+    "title": "Lord of Winterfell",
+    "family": "House Stark",
+    "image": "robb-stark.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/robb-stark.jpg",
+    "quotes": [
+      "Todos os homens devem manter sua palavra, principalmente os reis."
+    ]
+  },
+  {
+    "id": 12,
+    "firstName": "Theon",
+    "lastName": "Greyjoy",
+    "fullName": "Theon Greyjoy",
+    "title": "Captain of Sea Bitch",
+    "family": "House Greyjoy",
+    "image": "theon.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/theon.jpg",
+    "quotes": [
+      "Minha espada é sua, na vitória e na derrota, deste dia até meu último dia.",
+      "É melhor ser cruel do que fraco.",
+      "Sempre pareceu que havia uma escolha impossível que eu tinha que fazer... Stark ou Greyjoy."
+    ]
+  },
+  {
+    "id": 13,
+    "firstName": "Joffrey",
+    "lastName": "Baratheon",
+    "fullName": "Joffrey Baratheon",
+    "title": "Lord of the Seven Kingdoms, Protector of the Realm",
+    "family": "House Lannister",
+    "image": "joffrey.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/joffrey.jpg"
+  },
+  {
+    "id": 14,
+    "firstName": "Tyrion",
+    "lastName": "Lannister",
+    "fullName": "Tyrion Lannister",
+    "title": "Hand of the Queen",
+    "family": "House Lannister",
+    "image": "tyrion-lannister.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/tyrion-lannister.jpg",
+    "quotes": [
+      "Tenho um lugar sensível no meu coração para aleijados, bastardos e coisas quebradas.",
+      "Nunca se esqueça do que você é. O resto do mundo não vai. Use-o como uma armadura, e ele nunca poderá ser usado para machucá-lo.",
+      "Chegará o dia em que você pensará que está seguro e feliz, e sua alegria se transformará em cinzas em sua boca.",
+      "É isso que eu faço: bebo e sei coisas.",
+      "Sou seu filho. Sempre fui seu filho.",
+      "Você ama seus filhos. É sua única qualidade redentora. Isso e suas maçãs do rosto.",
+      "Esse pouco de teatro assombrará nossa família por uma geração.",
+      "O amor é mais poderoso que a razão. Todos nós sabemos disso.",
+      "Um Lannister sempre paga suas dívidas.",
+      "Sei que nossos inimigos se odeiam quase tanto quanto nos odeiam.",
+      "Bem, meu irmão tem sua espada, e eu tenho minha mente, e uma mente precisa de livros como uma espada precisa de uma pedra de amolar, se for para manter sua edge.",
+      "Não é fácil ficar bêbado o tempo todo. Todo mundo faria isso, se fosse fácil.",
+      "Um governante que mata aqueles devotados a ele não é um governante que inspira devoção.",
+      "Nunca se esqueça do que você é. O resto do mundo não vai. Use-a como uma armadura, e ela nunca poderá ser usada para machucá-lo.",
+      "Todo mundo que faz piada sobre a altura de um anão acha que é a única pessoa a fazer piada sobre a altura de um anão.",
+      "Não importa quem você seja, não importa o quão forte você seja, mais cedo ou mais tarde, você enfrentará circunstâncias além do seu controle.",
+      "Sou uma decepção constante para meu próprio pai, e aprendi a viver com isso.",
+      "A morte é tão terrivelmente final, enquanto a vida é cheia de possibilidades.",
+      "Por que quando um homem constrói um muro, o próximo homem imediatamente precisa saber o que há do outro lado?",
+      "As pessoas geralmente afirmam ter fome da verdade, mas raramente gostam do sabor quando ela é servida.",
+      "Quando você arranca a língua de um homem, não está provando que ele é um mentiroso, está apenas dizendo ao mundo que teme o que ele possa dizer.",
+      "Muitos subestimaram você. A maioria deles está morta agora.",
+      "Eu não matei Joffrey, mas queria ter matado! Ver seu bastardo cruel morrer me deu mais alívio do que mil prostitutas mentirosas!",
+      "Eu queria ser o monstro que vocês pensam que eu sou! Queria ter veneno suficiente para todo o bando de vocês! Eu daria minha vida de bom grado para ver todos vocês engolirem!",
+      "É difícil colocar uma coleira em um cachorro depois que você coloca uma coroa em sua cabeça.",
+      "Eu tenho muita experiência em perder.",
+      "Eu sou culpado de ser um anão."
+    ]
+  },
+  {
+    "id": 15,
+    "firstName": "Sandor",
+    "lastName": "Clegane",
+    "fullName": "Sandor Clegane",
+    "title": "The Hound",
+    "family": "",
+    "image": "the-hound.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/the-hound.jpg",
+    "quotes": [
+      "Foda-se o rei.",
+      "Você é péssimo em morrer, sabia disso?",
+      "Como um filho da puta louco como você viveu tanto tempo?",
+      "Um cão morrerá por você, mas nunca mentirá para você.",
+      "Sim, há uma razão. Eu sou um grande filho da puta e sou difícil de matar.",
+      "O ódio é uma coisa tão boa quanto qualquer outra para manter uma pessoa viva. Melhor do que a maioria. Nós encontramos meu irmão, talvez possamos ambos riscar um nome da nossa lista.",
+      "Se você não pode se proteger, morra e saia do caminho daqueles que podem. Aço afiado e braços fortes governam este mundo, nunca acredite em nada diferente.",
+      "Seus lábios estão se movendo e você está reclamando de alguma coisa. Isso é choramingar. Este foi morto seis vezes. (aponta para Beric) Você não o ouve reclamando sobre isso.",
+      "Thoros não está mais aqui, então espero que você não esteja prestes a dar um sermão. Porque se estiver, o Senhor ",
+      "O cara da Luz vai se perguntar por que ele te trouxe de volta 19 vezes só para te ver morrer quando eu te jogar desse maldito muro."
+    ]
+  },
+  {
+    "id": 16,
+    "firstName": "Petyr",
+    "lastName": "Baelish",
+    "fullName": "Petyr Baelish",
+    "title": "Littlefinger",
+    "family": "House Arryn",
+    "image": "littlefinger.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/littlefinger.jpg"
+  },
+  {
+    "id": 17,
+    "firstName": "Davos",
+    "lastName": "Seaworth",
+    "fullName": "Davos Seaworth",
+    "title": "Hand of the King",
+    "family": "",
+    "image": "davos-seaworth.png",
+    "imageUrl": "https://thronesapi.com/assets/images/davos-seaworth.png",
+    "quotes": [
+      "Posso não conhecer o norte, mas conheço os homens. Eles são mais ou menos os mesmos em qualquer canto do mundo e até mesmo os mais corajosos deles não querem ver suas esposas e filhos esfolados por uma causa perdida."
+    ]
+  },
+  {
+    "id": 18,
+    "firstName": "Stannis",
+    "lastName": "Baratheon",
+    "fullName": "Stannis Baratheon",
+    "title": "Lord of Dragonstone",
+    "family": "House Baratheon",
+    "image": "stannis.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/stannis.jpg"
+  },
+  {
+    "id": 19,
+    "firstName": "Varys",
+    "lastName": "",
+    "fullName": "Varys",
+    "title": "Master of Whisperers",
+    "family": "",
+    "image": "varys.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/varys.jpg",
+    "quotes": [
+      "As tempestades vêm e vão, os peixes grandes comem os peixes pequenos e eu continuo remando.",
+      "O poder reside onde os homens acreditam que ele reside. É um truque, uma sombra na parede. E um homem muito pequeno pode projetar uma sombra muito grande."
+    ]
+  },
+  {
+    "id": 20,
+    "firstName": "Khal",
+    "lastName": "Drogo",
+    "fullName": "Khal Drogo",
+    "title": "Khal",
+    "family": "House Targaryen",
+    "image": "khal-drogo.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/khal-drogo.jpg"
+  },
+  {
+    "id": 21,
+    "firstName": "Margaery",
+    "lastName": "Tyrell",
+    "fullName": "Margaery Tyrell",
+    "title": "Queen of the Seven Kingdoms",
+    "family": "House Tyrell",
+    "image": "margaery-tyrell.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/margaery-tyrell.jpg"
+  },
+  {
+    "id": 22,
+    "firstName": "Ygritte",
+    "lastName": "",
+    "fullName": "Ygritte",
+    "title": "Spearwife",
+    "family": "",
+    "image": "ygritte.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/ygritte.jpg",
+    "quotes": [
+      "Você não sabe de nada, Jon Snow.",
+      "Todo homem deve morrer, Jon Snow. mas primeiro, ele deve viver"
+    ]
+  },
+  {
+    "id": 23,
+    "firstName": "Brienne",
+    "lastName": "Tarth",
+    "fullName": "Brienne of Tarth",
+    "title": "Lady Brienne",
+    "family": "",
+    "image": "brienne-tarth.jpeg",
+    "imageUrl": "https://thronesapi.com/assets/images/brienne-tarth.jpeg",
+    "quotes": [
+      "Tudo o que eu sempre quis foi lutar por um senhor em quem eu acreditava. Mas os bons senhores estão mortos e o resto são monstros.",
+      "Toda a minha vida homens como você zombaram de mim, e toda a minha vida eu tenho jogado homens como você no pó.",
+      "Eu protegerei suas costas e manterei seu conselho, e darei minha vida pela sua se necessário."
+    ]
+  },
+  {
+    "id": 24,
+    "firstName": "Missandei",
+    "lastName": "None",
+    "fullName": "Missandei",
+    "title": "Queen's Personal Advisor",
+    "family": "",
+    "image": "missandei.jpeg",
+    "imageUrl": "https://thronesapi.com/assets/images/missandei.jpeg"
+  },
+  {
+    "id": 25,
+    "firstName": "Gilly",
+    "lastName": "",
+    "fullName": "Gilly",
+    "title": "The Rabbit Keeper",
+    "family": "",
+    "image": "gilly.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/gilly.jpg"
+  },
+  {
+    "id": 26,
+    "firstName": "Viserys",
+    "lastName": "Targaryen",
+    "fullName": "Viserys Targaryen",
+    "title": "King Viserys III",
+    "family": "House Targaryen",
+    "image": "viserys-targaryan.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/viserys-targaryan.jpg"
+  },
+  {
+    "id": 27,
+    "firstName": "Rickon",
+    "lastName": "Stark",
+    "fullName": "Rickon Stark",
+    "title": "Prince",
+    "family": "House Stark",
+    "image": "rickon.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/rickon.jpg"
+  },
+  {
+    "id": 28,
+    "firstName": "Roose",
+    "lastName": "Bolton",
+    "fullName": "Roose Bolton",
+    "title": "Lord of Dreadfort",
+    "family": "House Bolton",
+    "image": "roose-bolton.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/roose-bolton.jpg"
+  },
+  {
+    "id": 29,
+    "firstName": "Daario",
+    "lastName": "Naharis",
+    "fullName": "Daario Naharis",
+    "title": "Commander of the Second Sons",
+    "family": "",
+    "image": "daario.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/daario.jpg",
+    "quotes": [
+      "Você entendeu o medo uma vez, há muito tempo, mas esqueceu o que ele significa. Alguém que esqueceu o medo, esqueceu como se esconder."
+    ]
+  },
+  {
+    "id": 30,
+    "firstName": "Shae",
+    "lastName": "",
+    "fullName": "Shae",
+    "title": "Mistress",
+    "family": "",
+    "image": "shae.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/shae.jpg"
+  },
+  {
+    "id": 31,
+    "firstName": "Tommen",
+    "lastName": "Baratheon",
+    "fullName": "Tommen Baratheon",
+    "title": "Prince",
+    "family": "House Baratheon",
+    "image": "tommen.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/tommen.jpg"
+  },
+  {
+    "id": 32,
+    "firstName": "Gendry",
+    "lastName": "Baratheon",
+    "fullName": "Gendry Baratheon",
+    "title": "Lord of Storm's End",
+    "family": "House Baratheon",
+    "image": "gendry.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/gendry.jpg"
+  },
+  {
+    "id": 33,
+    "firstName": "Jorah",
+    "lastName": "Mormont",
+    "fullName": "Jorah Mormont",
+    "title": "Knight",
+    "family": "",
+    "image": "jorah-mormont.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/jorah-mormont.jpg"
+  },
+  {
+    "id": 34,
+    "firstName": "Robert",
+    "lastName": "Baratheon",
+    "fullName": "Robert Baratheon",
+    "title": "King",
+    "family": "House Baratheon",
+    "image": "king-robert.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/king-robert.jpg",
+    "quotes": [
+      "Eu sou o Rei, eu consigo o que quero. Eu nunca amei meus irmãos. É triste para um homem admitir, mas é verdade. Você foi o irmão que eu escolhi."
+    ]
+  },
+  {
+    "id": 35,
+    "firstName": "Ramsey",
+    "lastName": "Bolton",
+    "fullName": "Ramsey Bolton",
+    "title": "The Bastard of Bolton",
+    "family": "House Bolton",
+    "image": "ramsey-bolton.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/ramsey-bolton.jpg"
+  },
+  {
+    "id": 36,
+    "firstName": "Talisa",
+    "lastName": "Stark",
+    "fullName": "Talisa Stark",
+    "title": "Queen Consort",
+    "family": "House Stark",
+    "image": "talisa-stark.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/talisa-stark.jpg"
+  },
+  {
+    "id": 37,
+    "firstName": "Jeor",
+    "lastName": "Mormont",
+    "fullName": "Jeor Mormont",
+    "title": "Lord Commander of the Knight's Watch",
+    "family": "",
+    "image": "lord-commander-mormont.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/lord-commander-mormont.jpg"
+  },
+  {
+    "id": 38,
+    "firstName": "Sparrow",
+    "lastName": "",
+    "fullName": "The High Sparrow",
+    "title": "High Septon",
+    "family": "",
+    "image": "the-high-sparrow.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/the-high-sparrow.jpg"
+  },
+  {
+    "id": 39,
+    "firstName": "Oberyn",
+    "lastName": "Martell",
+    "fullName": "Oberyn Martell",
+    "title": "Red Viper of Dorne",
+    "family": "House Martell",
+    "image": "red-viper.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/red-viper.jpg",
+    "quotes": [
+      "É um mundo grande e lindo. A maioria de nós vive e morre no mesmo canto onde nascemos e nunca conseguimos ver nada disso. Eu não quero ser a maioria de nós.",
+      "Diga ao seu pai que estou aqui. E diga a ele que os Lannisters não são os únicos que pagam suas dívidas.",
+      "Você não é um leão dourado. Você é apenas um homenzinho rosa, que é muito lento no gatilho."
+    ]
+  },
+  {
+    "id": 40,
+    "firstName": "Melisandre",
+    "lastName": "The Red Woman",
+    "fullName": "Melisandre",
+    "title": "Melisandre of Asshai",
+    "family": "House Baratheon",
+    "image": "melisandre.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/melisandre.jpg",
+    "quotes": [
+      "The night is dark and full of terrors."
+    ]
+  },
+  {
+    "id": 41,
+    "firstName": "Jaqen",
+    "lastName": "H'ghar",
+    "fullName": "Jaqen H'ghar",
+    "title": "Faceless Men of Braavos",
+    "family": "",
+    "image": "jaqen-hghar.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/jaqen-hghar.jpg",
+    "quotes": [
+      "Se chegar o dia em que você tiver que me encontrar novamente, basta dar esta moeda a qualquer homem de Braavos e dizer estas palavras a ele: \"Valar morghulis.\""
+    ]
+  },
+  {
+    "id": 42,
+    "firstName": "Tywin",
+    "lastName": "Lannister",
+    "fullName": "Tywin Lannister",
+    "title": "Lord Paramount of Westerlands",
+    "family": "House Lannister",
+    "image": "tywin-lannister.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/tywin-lannister.jpg",
+    "quotes": [
+      "Um leão não se preocupa com a opinião das ovelhas.",
+      "Qualquer homem que diga 'Eu sou o Rei' não é um Rei de verdade.",
+      "A cada dia que ele permanece prisioneiro, menos nosso nome impõe respeito.",
+      "Preciso que você se torne o homem que sempre foi destinado a ser. Não no ano que vem, não amanhã, agora.",
+      "Se outra casa pode capturar um dos nossos e mantê-lo cativo impunemente, não somos mais uma casa a ser temida.",
+      "Ele é um Lannister! Talvez o mais baixo dos Lannisters, mas ele é um de nós. E a cada dia que ele permanece prisioneiro, menos nosso nome impõe respeito.",
+      "Você está sendo aconselhado neste exato momento."
+    ]
+  },
+  {
+    "id": 43,
+    "firstName": "Ellaria",
+    "lastName": "Sand",
+    "fullName": "Ellaria Sand",
+    "title": "Paramour of Prince Oberyn Martell",
+    "family": "House Martell",
+    "image": "ellaria-sand.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/ellaria-sand.jpg"
+  },
+  {
+    "id": 44,
+    "firstName": "Tormund",
+    "lastName": "Giantsbane",
+    "fullName": "Tormund Giantsbane",
+    "title": "Free Folk Warrior",
+    "family": "",
+    "image": "tormund-giantsbane.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/tormund-giantsbane.jpg",
+    "quotes": [
+      "Os gengibres são lindos. Fomos beijados pelo fogo."
+    ]
+  },
+  {
+    "id": 45,
+    "firstName": "Yara",
+    "lastName": "Greyjoy",
+    "fullName": "Yara Greyjoy",
+    "title": "Lady of the Iron Islands",
+    "family": "House Greyjoy",
+    "image": "yara-greyjoy.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/yara-greyjoy.jpg"
+  },
+  {
+    "id": 46,
+    "firstName": "Euron",
+    "lastName": "Greyjoy",
+    "fullName": "Euron Greyjoy",
+    "title": "King of the iron Islands",
+    "family": "House Greyjoy",
+    "image": "euron-greyjoy.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/euron-greyjoy.jpg"
+  },
+  {
+    "id": 47,
+    "firstName": "Wylis",
+    "lastName": "Hodor",
+    "fullName": "Hodor",
+    "title": "Servant of House Stark",
+    "family": "House Stark",
+    "image": "hodor.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/hodor.jpg"
+  },
+  {
+    "id": 48,
+    "firstName": "Pycelle",
+    "lastName": "",
+    "fullName": "Pycelle",
+    "title": "Grand Maester of the Seven Kingdoms",
+    "family": "House Lannister",
+    "image": "pycelle.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/pycelle.jpg"
+  },
+  {
+    "id": 49,
+    "firstName": "Grey",
+    "lastName": "Worm",
+    "fullName": "Grey Worm",
+    "title": "Commander of the Unsullied",
+    "family": "House Targaryen",
+    "image": "greyworm.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/greyworm.jpg"
+  },
+  {
+    "id": 50,
+    "firstName": "Olenna",
+    "lastName": "Tyrell",
+    "fullName": "Olenna Tyrell",
+    "title": "Queen of Thorns",
+    "family": "House Tyrell",
+    "image": "olenna-tyrell.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/olenna-tyrell.jpg",
+    "quotes": [
+      "O mundo está transbordando de coisas horríveis, mas todas elas são uma bandeja de bolos perto da morte.",
+      "Você é um dragão. Seja um dragão.",
+      "Disseram-me que você era bêbado, impertinente e completamente depravado. Você pode imaginar minha decepção ao não encontrar nada além de um contador intimidado."
+    ]
+  },
+  {
+    "id": 51,
+    "firstName": "Qyburn",
+    "lastName": "Grand Maester",
+    "fullName": "Qyburn",
+    "title": "Former maester of the Citadel",
+    "family": "House Lannister",
+    "image": "qyburn.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/qyburn.jpg",
+    "quotes": [
+      "Mas às vezes, antes que possamos inaugurar o novo, o antigo precisa ser colocado para descansar."
+    ]
+  },
+  {
+    "id": 52,
+    "firstName": "Bronn",
+    "lastName": "",
+    "fullName": "Bronn",
+    "title": "Lord of Highgarden",
+    "family": "House Lannister",
+    "image": "bronn.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/bronn.jpg"
+  }
+]

@@ -1,0 +1,106 @@
+.season_main {
+    display: flex;
+    flex-direction: row;
+    border-radius: 15px;
+    width: 90%;
+    margin: 0 auto;
+    background: var(--white_card);
+    color: var(--black_letters);
+    box-shadow: 0px 8px 16px 0px rgb(0 0 0 / 3%);
+}
+
+.season_sidebar {
+    padding: 1rem;
+    flex: 1 1 20%;
+    display: flex;
+    flex-direction: column;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    color: white;
+    border-right: 1px solid #ccc;
+}
+
+.season_sidebar a {
+    display: block;
+    margin: 0.5rem 0;
+    padding: 0.5rem 2rem;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient( 135deg, #6B73FF 10%, #000DFF 100%);
+    text-align: center;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.season_sidebar a:hover {
+    background: #0000ff;
+}
+
+.season_content {
+    text-align: center;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 1rem;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+}
+
+.media-container {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.media-container img {
+    max-width: 100%;
+    border-radius: 1rem;
+    height: auto;
+}
+
+.media-container iframe {
+    max-width: 100%;
+    height: 315px;
+    border-radius: 1rem;
+}
+
+@media (max-width: 940px) {
+    .season_main {
+        flex-direction: column;
+    }
+
+    .media-container {
+        flex-direction: column;
+    }
+
+    .season_sidebar {
+        border-radius: 15px;
+        width: 100%;
+        margin-bottom: 1rem;
+        padding: 1rem;
+        min-width: 0;
+        border: none;
+    }
+
+    .season_content {
+        padding: 2rem;
+    }
+
+    .season_content img {
+        width: 80%;
+        max-width: 100%;
+    }
+
+    .season_content iframe {
+        width: 100%;
+    }
+
+    .season_sidebar a {
+        font-size: 0.9rem;
+    }
+}

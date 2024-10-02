@@ -1,0 +1,23 @@
+.cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.painel_principal {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  color: black;
+  img {
+    margin: 0 auto;
+    height: auto;
+    max-height: 50vh;
+    max-width: 100%;
+    cursor: pointer;
+  }
+}

@@ -1,0 +1,41 @@
+.darktheme {
+  background-color: rgb(17, 15, 16);
+  color: #f8f9fa;
+  --black_letters: #f8f9fa;
+  --white_card: #313131;
+  transition: 400ms;
+
+}
+
+.lighttheme {
+  background-color: #f8f9fa;
+  color: rgb(17, 15, 16);
+
+}
+
+#houses,
+#continentes,
+#seasons,
+#contact,
+#characters {
+  height: 100%;
+  margin: 1rem 2rem;
+}
+
+.toggleSection {
+  padding: 10px;
+  text-align: end;
+}
+
+@media (orientation: portrait) {
+  #personagens {
+    height: 100%;
+  }
+}
+
+@media (max-height: 197px) {
+  #personagens {
+    height: 100%;
+    width: 100%;
+  }
+}
